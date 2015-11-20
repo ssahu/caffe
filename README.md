@@ -35,3 +35,6 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+#Updated installation stuff
+https://gist.github.com/ssahu/47ad29f64c1fe5f39ebb
